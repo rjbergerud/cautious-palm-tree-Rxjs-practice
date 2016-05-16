@@ -1,0 +1,13 @@
+{
+  "name": "rx-practice",
+  "version": "1.0.0",
+  "description": "\"Ryder practicing RXjs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+  	"dev": "lite-server"
+  },
+  "author": "Ryder Bergerud",
+  "license": "ISC"
+}
